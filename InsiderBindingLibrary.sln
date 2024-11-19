@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsiderBindingLibrary", "InsiderBindingLibrary\InsiderBindingLibrary.csproj", "{D9333386-5C48-4EA6-99AB-4579B73CFC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppExampleMaui", "AppExampleMaui\AppExampleMaui.csproj", "{360BF14D-87C1-4E3D-8F4E-7AC03657AF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9333386-5C48-4EA6-99AB-4579B73CFC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9333386-5C48-4EA6-99AB-4579B73CFC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9333386-5C48-4EA6-99AB-4579B73CFC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9333386-5C48-4EA6-99AB-4579B73CFC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360BF14D-87C1-4E3D-8F4E-7AC03657AF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360BF14D-87C1-4E3D-8F4E-7AC03657AF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360BF14D-87C1-4E3D-8F4E-7AC03657AF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360BF14D-87C1-4E3D-8F4E-7AC03657AF76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {646F67B5-866E-4DCE-9040-D6708364B8FD}
+	EndGlobalSection
+EndGlobal

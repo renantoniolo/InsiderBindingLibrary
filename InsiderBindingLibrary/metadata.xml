@@ -1,0 +1,3 @@
+﻿<bindings>
+  <remove-node path="/api/package[@name='com.useinsider.insider']/class[@name='BuildConfig']" />
+</bindings>
